@@ -28,7 +28,6 @@ Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **Ba
    - Criação de tabelas (`Motorista`, `Rota`, `Onibus`, `Viagens`, `Realiza`, `Passagem`):contentReference[oaicite:1]{index=1}  
    - Inserção de dados representativos (motoristas, ônibus, rotas, viagens e passagens)  
    - Consultas SQL exemplificando casos de uso do sistema  
-3. A apresentação **`SLIDES PROJETO BD 2.pdf`** mostra o passo a passo da modelagem.  
 
 ---
 
